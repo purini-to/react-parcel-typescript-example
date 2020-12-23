@@ -1,10 +1,10 @@
-# parcel-typescript-example
+# react-parcel-typescript-example
 
 create React App use CRA
 
 ```sh
-npx create-react-app parcel-typescript-example --template typescript
-cd parcel-typescript-example
+npx create-react-app react-parcel-typescript-example --template typescript
+cd react-parcel-typescript-example
 ```
 
 install parcel
